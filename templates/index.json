@@ -112,20 +112,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "camisas"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "camisa-azul-com-manga",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "camisas"
           }
         }
       },
@@ -141,8 +141,8 @@
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 56,
+        "padding_bottom": 56
       }
     },
     "video": {
@@ -236,21 +236,12 @@
             "button_link": "",
             "button_style_secondary": false
           }
-        },
-        "09d86647-f48e-49f3-8f2d-9d3703b054e7": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
         }
       },
       "block_order": [
         "template--20171330519326__e4784d87-8eb8-4b47-aa3b-87d0a6f5ec21-heading-1",
         "template--20171330519326__e4784d87-8eb8-4b47-aa3b-87d0a6f5ec21-text-1",
-        "template--20171330519326__e4784d87-8eb8-4b47-aa3b-87d0a6f5ec21-button-1",
-        "09d86647-f48e-49f3-8f2d-9d3703b054e7"
+        "template--20171330519326__e4784d87-8eb8-4b47-aa3b-87d0a6f5ec21-button-1"
       ],
       "settings": {
         "height": "adapt",
